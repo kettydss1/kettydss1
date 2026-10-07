@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0F2237?style=for-the-badge&logo=linkedin&logoColor=D9BE84" alt="LinkedIn"></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-0F2237?style=for-the-badge&logo=gmail&logoColor=D9BE84" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/kethellyn-soares/"><img src="https://img.shields.io/badge/LinkedIn-0F2237?style=for-the-badge&logo=linkedin&logoColor=D9BE84" alt="LinkedIn"></a>
+  <a href="mailto:kettydss1@gmail.com"><img src="https://img.shields.io/badge/E--mail-0F2237?style=for-the-badge&logo=gmail&logoColor=D9BE84" alt="E-mail"></a>
   <img src="https://img.shields.io/badge/Recife%20·%20PE%20·%20Brasil-0F2237?style=for-the-badge&logo=googlemaps&logoColor=D9BE84" alt="Recife, Brasil">
 </p>
 
